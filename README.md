@@ -174,3 +174,9 @@ a baseline installation of a Linux server and to prepare it to host your web app
 
 ## congratulations
 1. now just Restart Apache `sudo service apache2 restart ` and you can use the Server via http://3.8.172.40.xip.io
+
+## Third-Party Resources
+-   [How To Configure the Apache Web Server on an Ubuntu or Debian VPS](https://www.digitalocean.com/community/tutorials/how-to-configure-the-apache-web-server-on-an-ubuntu-or-debian-vps)
+-   [xip.io](http://xip.io/)
+-   [How To Deploy a Flask Application on an Ubuntu VPS](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps)
+-   [Flask by Example - Setting Up Postgres, SQLAlchemy, and Alembic](https://realpython.com/flask-by-example-part-2-postgres-sqlalchemy-and-alembic/)
